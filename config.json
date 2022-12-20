@@ -8,9 +8,9 @@
     "text": "Gephi"
   },
   "text": {
-    "more": "Data Graph",
-    "intro": "Cloud Graph",
-    "title": "Cloud Graph"
+    "more": "Cyber Graph",
+    "intro": "Cyber\nGraph",
+    "title": "Cyber Graph"
   },
   "legend": {
     "edgeLabel": "Relaciones",
@@ -29,21 +29,21 @@
   "sigma": {
     "drawingProperties": {
       "defaultEdgeType": "curve",
-      "defaultHoverLabelBGColor": "#002147",
-      "defaultLabelBGColor": "#ddd",
+      "defaultHoverLabelBGColor": "#EA6C7C",
+      "defaultLabelBGColor": "blue",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#000",
-      "labelThreshold": 10,
-      "defaultLabelHoverColor": "#fff",
+      "defaultLabelColor": "white",
+      "labelThreshold": 1,
+      "defaultLabelHoverColor": "white",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 25
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
+      "maxEdgeSize": 2.5,
       "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "minNodeSize": 5,
+      "maxNodeSize": 40
     },
     "mouseProperties": {
       "maxRatio": 20,
